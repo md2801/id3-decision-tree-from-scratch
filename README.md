@@ -61,7 +61,7 @@ One key insight documented in the notebook: using `counts / counts.sum()` (subse
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/id3-decision-tree.git
+   git clone https://github.com/md2801/id3-decision-tree.git
    cd id3-decision-tree
    ```
 
